@@ -29,3 +29,17 @@ git commit -m "Adding the README.md"
 # push the changes to the server.
 git push origin main
 ```
+
+Change the username and email if required
+
+```
+git config --global user.name "Rani Kurmi"
+git config --global user.email "kurmirani22@gmail.com"
+```
+
+```
+npm install mocha -g
+npm install mocha -- save-dev
+npm install chai -- save-dev
+
+```
